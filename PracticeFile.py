@@ -1,7 +1,5 @@
 #Practice File for learning git <3
 
-print ("Back to Aloha and Mahalo")
+my_list = ['potato','tomato','kill us']
 
-#here is another commentgti
-
-#merge with conflicts
+#Got rid of those dumb comments
