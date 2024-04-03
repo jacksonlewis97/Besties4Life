@@ -1,3 +1,5 @@
 #Practice File for learning git <3
 
-print ("CONFLICT")
+print ("Aloha")
+
+#here is another commentgti
